@@ -40,7 +40,7 @@ Movie_ID | Id do filme avaliado
 
 A partir dos dados disponíveis, será criado um **sistema de recomendação baseado em produto** em que o usuário escolhe um filme e o sistema retorna opções que o mesmo julga interessantes para este respectivo usuário em questão.
 
-O sistema criado recomenda filmes com base na época do filme e popularidade sua respectiva popularidade. Época e popularidade são características que foram criadas no notebook [sistema-recomendacao]() para cada filme com base na análise dos dados disponíveis. O notebook citado se encontra na pasta 'Notebooks'
+O sistema criado recomenda filmes com base na época do filme e popularidade sua respectiva popularidade. Época e popularidade são características que foram criadas no notebook [sistema-recomendacao](https://github.com/ViniPilan/recomm-system/blob/master/Notebooks/sistema-recomendacao.ipynb) para cada filme com base na análise dos dados disponíveis. O notebook citado se encontra na pasta 'Notebooks'
 
 Vale ressaltar que dessa forma, o sistema recomenda filmes de mesma época que tiveram popularidade parecida. A recomendação com base no gênero do filme não foi possível de ser criada pois não se tem essa informação (gênero de cada filme) na base de dados.
 
