@@ -71,7 +71,7 @@ A linguagem utilizada para fazer esse projeto foi o Python e as bibliotecas fora
 
 ## Sobre o autor do projeto
 
-Sou fascinado pela ciência de dados e encontrei nessa área uma paixão. Busco aprender constantemente 
+Me chamo Vinícius, sou fascinado pela ciência de dados e encontrei nessa área uma paixão. Busco aprender constantemente 
 para alcançar autoridade como Cientista de Dados profissional e atingir este que é meu objetivo de carreira.
 
 Estudo Ciência da Computação na UNESP Bauru (estou no último ano do curso, tenho horários bastante 
