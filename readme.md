@@ -3,7 +3,7 @@
 ## Introdução
 Na era em que se vive hoje, com um mundo extremamente conectado via Internet, o grande volume de informações disponibilizadas na internet não é novidade para ninguém. Entretanto, mesmo que o usuário se acostume com isso, ele tem cada vez mais dificuldade em escolher por conta qual conteúdo consumir, visto que está sempre mergulhado nas mais diversas opções.
 
-Uma plataforma de filmes com os mais diferentes títulos disponíveis, uma loja com os mais diversos tipos de produtos à venda ou um site de informação com uma enorme quantidade de notícias dos mais diferentes assuntos, todos essses contextos **disponibilizam ao usuário muitas opções para acesso e consumo**. Porém, todo esse **mar de informação pode causar dúvida** para o indivíduo: *o que escolho para consumir?*
+Uma plataforma de filmes com os mais diferentes títulos disponíveis, uma loja com os mais diversos tipos de produtos à venda ou um site de informação com uma enorme quantidade de notícias dos mais diferentes assuntos, todos esses contextos **disponibilizam ao usuário muitas opções para acesso e consumo**. Porém, todo esse **mar de informação pode causar dúvida** para o indivíduo: *o que escolho para consumir?*
 
 E é nesse momento em que os sistemas de recomendação ganham cada vez mais força. Um sistema de recomendação tenta oferecer a determinado usuário algo que possivelmente possa interessá-lo a partir de um grande volume de informações sobre o respectivo usuário ou produto.
 
@@ -42,7 +42,7 @@ A partir dos dados disponíveis, será criado um **sistema de recomendação bas
 
 O sistema criado recomenda filmes com base na época do filme e popularidade sua respectiva popularidade. Época e popularidade são características que foram criadas no notebook [sistema-recomendacao](https://github.com/ViniPilan/recomm-system/blob/master/Notebooks/sistema-recomendacao.ipynb) para cada filme com base na análise dos dados disponíveis. O notebook citado se encontra na pasta 'Notebooks'
 
-Vale ressaltar que dessa forma, o sistema recomenda filmes de mesma época que tiveram popularidade parecida. A recomendação com base no gênero do filme não foi possível de ser criada pois não se tem essa informação (gênero de cada filme) na base de dados.
+Vale ressaltar que, dessa forma, o sistema recomenda filmes de mesma época que tiveram popularidade parecida. A recomendação com base no gênero do filme não foi possível de ser criada pois não se tem essa informação (gênero de cada filme) na base de dados.
 
 
 
