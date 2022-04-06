@@ -46,7 +46,7 @@ class app:
         resultados['dist'] = dists[0]
         resultados = resultados.sort_values(by='dist', ascending=True).reset_index(drop=True)
 
-        st.write('**Com base no filme escolhido, talvez você goste de: **')
+        st.write('**Com base no filme escolhido, talvez você goste de:**')
 
         for i in range(1, resultados.shape[0]):
             nome = resultados.iloc[i]['Name']
